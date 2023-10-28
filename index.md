@@ -12,3 +12,8 @@ const numbers = [102, -1, 2];
 numbers.sort((a, b) => a - b);
 console.log(numbers);
 ```
+
+- [x] Task 1
+- [x] Task 2
+- [x] Task 3
+- [ ] Finish React Course
